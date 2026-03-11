@@ -1,4 +1,4 @@
-# 🎬 AI Movie Catalog & Tracker
+# AI Movie Catalog & Tracker
 
 > Nowoczesna aplikacja webowa do przeglądania bazy filmów, zarządzania prywatną listą "do obejrzenia", oceniania tytułów oraz otrzymywania spersonalizowanych rekomendacji od asystenta AI.
 
@@ -28,7 +28,7 @@ Projekt realizowany w ramach przedmiotu **Indywidualny Projekt Programistyczny**
 **Przechowywanie Danych (Faza Prototypu / MVP):**
 * **Pliki JSON** – zapis profili użytkowników, ich list oraz ocen (zaimplementowane z użyciem Wzorca Repozytorium dla zachowania czystości architektury obiektowej).
 
-## 📅 Harmonogram prac (Kamienie milowe)
+## Harmonogram prac (Kamienie milowe)
 
 Realizacja projektu została podzielona na etapy (raporty), z których każdy dostarcza konkretne, działające funkcjonalności:
 
