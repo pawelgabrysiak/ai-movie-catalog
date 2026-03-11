@@ -22,7 +22,7 @@ Projekt realizowany w ramach przedmiotu **Indywidualny Projekt Programistyczny**
 * **Ollama** – lokalny model AI odpowiedzialny za system rekomendacji
 
 **Frontend (Interfejs Użytkownika):**
-* **React** – budowa dynamicznego interfejsu aplikacji (SPA)
+* **React** – budowa dynamicznego interfejsu aplikacji
 * **Recharts** – renderowanie nowoczesnych wykresów w panelu statystycznym
 
 **Przechowywanie Danych (Faza Prototypu / MVP):**
@@ -53,7 +53,7 @@ Realizacja projektu została podzielona na etapy (raporty), z których każdy do
 ### Raport 4 (Finał): Analityka, Szlify i Prezentacja
 * Zbudowanie panelu statystycznego użytkownika z użyciem biblioteki **Recharts** (wykresy ulubionych gatunków, rozkład ocen).
 * Obsługa błędów, testowanie i optymalizacja zapytań do Pandas.
-* Finalne stylowanie interfejsu (CSS/Tailwind).
-* Oddanie i obrona gotowego projektu.
+* Finalne stylowanie interfejsu.
+* Oddanie gotowego projektu.
 ---
 *Projekt zrealizowany w ramach przedmiotu: Indywidualny Projekt Programistyczny.*
