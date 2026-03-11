@@ -28,7 +28,7 @@ Projekt realizowany w ramach przedmiotu **Indywidualny Projekt Programistyczny**
 **Przechowywanie Danych (Faza Prototypu / MVP):**
 * **Pliki JSON** – zapis profili użytkowników, ich list oraz ocen (zaimplementowane z użyciem Wzorca Repozytorium dla zachowania czystości architektury obiektowej).
 
-## Harmonogram prac (Kamienie milowe)
+## Harmonogram prac
 
 Realizacja projektu została podzielona na etapy (raporty), z których każdy dostarcza konkretne, działające funkcjonalności:
 
@@ -40,7 +40,7 @@ Realizacja projektu została podzielona na etapy (raporty), z których każdy do
 
 ### Raport 2: Podstawowe API i Interfejs Użytkownika (Frontend)
 * Inicjalizacja projektu frontentowego w **React**.
-* Stworzenie endpointów REST API do pobierania katalogu filmów i filtrowania wyników.
+* Napisanie logiki backendu (Flaska), która przesyła listę filmów do aplikacji i pozwala na ich wyszukiwanie.
 * Zbudowanie widoku głównego (katalog z kartami filmów) oraz widoku szczegółów.
 * Połączenie frontendu z backendem.
 
